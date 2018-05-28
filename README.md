@@ -1,1 +1,1 @@
-# charRecognition
+一个简单的百度语音合成小项目
